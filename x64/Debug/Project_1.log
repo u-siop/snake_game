@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Root\Desktop\toy_projects\Project_1\Project_1\main.cpp(85,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\toy_projects\Project_1\Project_1\main.cpp(85,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\toy_projects\Project_1\Project_1\main.cpp(89,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Root\Desktop\toy_projects\Project_1\Project_1\main.cpp(90,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project_1.vcxproj -> C:\Users\Root\Desktop\toy_projects\Project_1\x64\Debug\Project_1.exe

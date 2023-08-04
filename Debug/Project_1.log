@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\Root\Desktop\toy_projects\Project_1\Project_1\main.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'raylib.h': No such file or directory
